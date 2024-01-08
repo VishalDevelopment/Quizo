@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361494447481",
+    "project_id": "quizo-new",
+    "storage_bucket": "quizo-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361494447481:android:c52b83e88b1e567ee45ba8",
+        "android_client_info": {
+          "package_name": "com.example.quizo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJHZyntlguOZyAv3Rz-u2frjhXR3Uy2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
